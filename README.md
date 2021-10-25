@@ -1,2 +1,2 @@
 # signal-clone-apps
- made with react
+ made with react-native
